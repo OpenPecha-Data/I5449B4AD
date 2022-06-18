@@ -1,0 +1,38 @@
+id: I5449B4AD
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T23:52:02.708912'
+last_modified: '2022-06-18T23:52:02.708925'
+parser: null
+source_metadata:
+  title: Printing Colophon of mKhas pa ug pai sgo, sGra nye bar bsdus pai tshigs bcad
+    and Byis pa bde blag tu jug pai rnam bshad, block print, colophon excerpt
+  author: ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2015-07-14);
+    revised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2556
+  bases:
+    e363:
+      title: Printing Colophon of mKhas pa ug pai sgo, sGra nye bar bsdus pai tshigs
+        bcad and Byis pa bde blag tu jug pai rnam bshad, block print, colophon excerpt
+      order: 1
+      base_file: e363.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
